@@ -1,6 +1,6 @@
 /* © 2026 PTZ GAMING STUDIO · Sekizlik Blok internet sitesi */
-@font-face { font-family:"Nunito"; font-weight:600; src:url("fonts/Nunito-SemiBold.woff") format("woff"); font-display:swap; }
-@font-face { font-family:"Nunito"; font-weight:800; src:url("fonts/Nunito-ExtraBold.woff") format("woff"); font-display:swap; }
+@font-face { font-family:"Nunito"; font-weight:600; src:url("Nunito-SemiBold.woff") format("woff"); font-display:swap; }
+@font-face { font-family:"Nunito"; font-weight:800; src:url("Nunito-ExtraBold.woff") format("woff"); font-display:swap; }
 
 :root {
   --bg:#f7f4ee; --card:#ffffff; --ink:#1d1730; --muted:#625d74; --line:#e8e2d6; --soft:#f2eee6;
